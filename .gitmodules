@@ -3,6 +3,6 @@
 	url = https://github.com/Sven-vh/fluent-builder-pattern.git
 	branch = header-only
 [submodule "tag-invoke"]
-	path = tag-invoke
+	path = svh/tag-invoke
 	url = https://github.com/Sven-vh/tag-invoke.git
 	branch = header-only

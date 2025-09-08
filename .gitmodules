@@ -1,0 +1,4 @@
+[submodule "svh"]
+	path = svh
+	url = https://github.com/Sven-vh/fluent-builder-pattern.git
+	branch = header-only
